@@ -16,7 +16,7 @@ No punctuation can be included.
 You need to have Python 3 installed on your computer. Simply download the files provided here.
 
 ## Sample execution
-At the command prompt, type the following:
+###At the command prompt, type the following:
 
   $python3 Bob.py
   
@@ -24,7 +24,7 @@ At the command prompt, type the following:
   
   $What is the name of the image file you want to use? bw_slippers.png
 
-To read the messsage hidden in the new file "new_bw_slippers.png":
+###To read the messsage hidden in the new file "new_bw_slippers.png":
   $python3 Alice.py
   
   $How many characters are there to decode? 17
