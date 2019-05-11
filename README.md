@@ -1,21 +1,21 @@
 # Hiding Messages in PNG files
 This project is a demonstration of steganography. It uses Black and White PNG files to "hide" a text message. A new file is created with an image that, to the human eye, looks identical to the original.
 
-# Code authors
+## Code authors
 Ziad Baroudi, as teacher, provided a scaffold
 Students Sarah Ang, Rachel Botros and Lauren Karipidis completed the code
 in 2017.
 
-# Limitations of the code
+## Limitations of the code
 This code is a result of a Year 10 (Grade 10) classroom project.
 The code is not meant to be examplary and only allows messages made up
 of lowercase letters in the standard English alphabet as well as spaces.
 No punctuation can be included.
 
-# What you need to run this project
+## What you need to run this project
 You need to have Python 3 installed on your computer. Simply download the files provided here.
 
-# Sample execution
+## Sample execution
 At the command prompt, type the following:
 
 > $python3 Bob.py
